@@ -17,10 +17,10 @@
 <h2>👀 About Me </h2>
 <h3>👋 Introduce</h3>
 <ul>
-    <li>백엔드 개발자 엄채원입니다.</li>
-    <li>코드 한 줄에도 이유가 있는 개발자가 되기 위해 노력합니다.</li>
-    <li>변경에 유연하고, 재사용성이 높은 코드를 중요하게 생각합니다.</li>
-    <li>문제를 고민하고, 나누고, 배우며 해결 하는 과정을 좋아합니다.</li>
+    <li>백엔드 개발자 엄채원입니다</li>
+    <li>코드 한 줄에도 이유가 있는 개발자가 되기 위해 노력합니다</li>
+    <li>변경에 유연하고, 재사용성이 높은 코드를 중요하게 생각합니다</li>
+    <li>문제를 고민하고, 나누고, 배우며 해결 하는 과정을 좋아합니다</li>
 </ul>
 
 <h3>💬 생산성 있는 코드리뷰를 위해 노력합니다</h3>
@@ -42,6 +42,7 @@
 
 <h3>📝 기억하고 공유하기 위해 기록합니다</h3>
 <ul>
+    <li><a href="https://velog.io/@meong">개발 블로그</a> </li>
     <li><a href="https://velog.io/@meong/Spring-Security-AuthenticationFilter-커스텀-시-어떤-필터를-상속받을-것인가">AuthenticationFilter 어떤 필터를 상속받을 것인가?</a> </li>
     <li><a href="https://velog.io/@meong/SpringBoot-Redisson-AOP-적용기-재고-동시성-제어">SpringBoot Redisson AOP 적용기 - 재고 동시성 제어</a></li>
     <li><a href="https://velog.io/@meong/Transaction-REQUIRESNEW-옵션-사용-시-Rollback-처리">Transaction REQUIRES_NEW 옵션 Rollback 이슈!</a></li>
